@@ -42,3 +42,4 @@ Deploying and managing instances in OpenStack is essential for cloud architects.
 ---
 
 Ready to take control of your cloud? Let's deploy some instances and conquer the virtual world! 💻🌍
+## 👉🏾[Lab Walkthrough]()
